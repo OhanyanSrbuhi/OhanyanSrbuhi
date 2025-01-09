@@ -1,5 +1,5 @@
 # 💫 About Me:
-About me
+ I'm currently learning and diving deep into the world of data science, machine learning, and statistics. I love tackling complex problems with data-driven approaches and am always eager to expand my knowledge in this fast-evolving field.
 
 
 # 💻 Tech Stack:
